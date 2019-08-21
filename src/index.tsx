@@ -1,5 +1,4 @@
 import * as React from "react";
-import Input from "./input";
 
 export type InputConfig = {
   length?: number;

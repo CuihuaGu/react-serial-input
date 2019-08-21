@@ -1,7 +1,7 @@
 {
   "name": "react-serial-input",
   "version": "1.0.0",
-  "description": "",
+  "description": "A serial input group",
   "main": "src/index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/CuihuaGu/react-serial-input.git"
   },
-  "author": "",
+  "author": "Michelle Gu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/CuihuaGu/react-serial-input/issues"
